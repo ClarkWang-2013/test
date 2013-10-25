@@ -1,5 +1,6 @@
 /*add init*/
-123
+123, printf("hello, laomei\n");
 sldkfjsk
 alkdjfslkdjflk
 sldkfjskdfj
+printf("hello, laomei\n");
